@@ -1,0 +1,6 @@
+# Nix build result
+/result
+
+# Built Go binary
+/lb
+
